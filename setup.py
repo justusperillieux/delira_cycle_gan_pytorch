@@ -41,7 +41,7 @@ setup(
     name='delira_cycle_gan',
     version=cycle_gan_version,
     packages=find_packages(),
-    url='https://github.com/justusschock/delira_cycle_gan_pytorch',
+    url='https://github.com/justusperillieux/delira_cycle_gan_pytorch',
     license=license,
     author='Justus Schock',
     author_email='justus.schock@rwth-aachen.de',
