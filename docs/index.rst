@@ -13,7 +13,7 @@ Welcome to delira-compatible cycle-GAN's documentation!
    Example <2d_example>
    API Documentation <_api/_build/modules>
 
-   GitHub <https://github.com/justusschock/delira_cycle_gan_pytorch>
+   GitHub <https://github.com/justusperillieux/delira_cycle_gan_pytorch>
 
 
 Indices and tables

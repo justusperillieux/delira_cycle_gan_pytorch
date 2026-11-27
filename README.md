@@ -2,7 +2,7 @@
 
 # Cycle GAN
 
-[![Build Status](https://travis-ci.com/justusschock/delira_cycle_gan_pytorch.svg?branch=master)](https://travis-ci.com/justusschock/delira_cycle_gan_pytorch) [![codecov](https://codecov.io/gh/justusschock/delira_cycle_gan_pytorch/branch/master/graph/badge.svg)](https://codecov.io/gh/justusschock/delira_cycle_gan_pytorch)
+[![Build Status](https://travis-ci.com/justusperillieux/delira_cycle_gan_pytorch.svg?branch=master)](https://travis-ci.com/justusperillieux/delira_cycle_gan_pytorch) [![codecov](https://codecov.io/gh/justusperillieux/delira_cycle_gan_pytorch/branch/master/graph/badge.svg)](https://codecov.io/gh/justusperillieux/delira_cycle_gan_pytorch)
 
 This package contains a [`delira`](https://github.com/justusschock/delira) 
 compatible cycle GAN skeleton, which should work for arbitrary dimensions and
@@ -20,7 +20,7 @@ compatible cycle GAN skeleton, which should work for arbitrary dimensions and
  ```
  or from source via:
  ```
- pip install git+https://github.com/justusschock/delira_cycle_gan_pytorch
+ pip install git+https://github.com/justusperillieux/delira_cycle_gan_pytorch
  ```
  
  ## Examples (taken from [the original implementation](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix))
